@@ -1,4 +1,7 @@
 /*exercicio_05*/
+// Faça um programa que lê um número n e imprima os valores
+// para j de 1 até n, um valor por linha.
+
 //rever tem duvidas 
 #include <stdio.h>
 #include <stdlib.h>

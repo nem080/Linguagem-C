@@ -1,4 +1,6 @@
 /* exercicio_10*/
+// O que será impresso pelo programa abaixo? Assuma que o valor de D na declaração de x é o valor do último dígito do seu RA.
+
 #include <stdio.h>
 #include <stdlib.h>
 

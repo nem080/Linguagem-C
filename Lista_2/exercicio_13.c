@@ -1,3 +1,6 @@
+/*exercicio_13*/
+//  Aponte os erros de implementação existentes no código em C, a seguir, desenvolvido com o intuito de calcular e imprimir o fatorial de um número inteiro não-negativo.
+
 /* 
 (1)  scanf esta na posiçao 
         erra,faltou as aspas dupla no "%d"  
@@ -14,7 +17,6 @@
         o final do colchete  do if 
 */ 
 
-/*exercicio_13*/
 #include <stdio.h>
 
 int main()

@@ -1,4 +1,12 @@
 /*exercicio_16*/
+// Faça um programa que leia um inteiro n (no máximo 50) e imprima uma saída da forma:
+/*
+1
+  2
+    3
+      2
+*/
+
 #include <stdio.h>
 
  int main() 

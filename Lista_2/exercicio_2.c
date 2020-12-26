@@ -1,4 +1,5 @@
 //exercicio_02
+// Faça um programa que lê dois números inteiros positivos a e b. Utilizando laços, o seu programa deve calcular e imprimir o valor ab.
 
 #include <stdio.h>
 #include <stdlib.h>

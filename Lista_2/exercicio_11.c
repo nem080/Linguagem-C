@@ -1,4 +1,9 @@
 /*exercicio_11*/
+// Escrevaumprogramaparalerndenúmerosdotipofloateimprimirquantosdelesestãonosseguin- tes intervalos: [0 . . . 25], [26 . . . 50], [51 . . . 75] e [76 . . . 100]. Por exemplo, para n = 10 e os seguintes dez números 2.0, 61.5, −1.0, 0.0, 88.7, 94.5, 55.0, 3.1415, 25.5, 75.0, seu programa deve imprimir:
+//    Intervalo [0..25]: 3
+//    Intervalo [26..50]: 0
+//    Intervalo [51..75]: 3
+//    Intervalo [76..100]: 2
 
 #include <stdio.h>
 #include <stdlib.h>

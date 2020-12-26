@@ -1,5 +1,6 @@
 /*exercicio_07*/
-
+// Considere o programa para determinar se uma sequência de n números digitados pelo usuário está
+// n. Por que? ordenado ou não. Faça o programa usando uma variável contadora.
 
 
 #include <stdio.h>

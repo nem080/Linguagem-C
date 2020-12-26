@@ -1,4 +1,6 @@
 /*exercicio12*/
+// Elabore um programa em C para computar a raiz quadrada de um número positivo. Use a idéia abaixo, baseada no método de aproximações sucessivas de Newton. O programa deverá imprimir o valor da vigésima aproximação.
+
 #include <stdio.h>
 #include <math.h>
    

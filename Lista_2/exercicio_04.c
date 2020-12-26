@@ -1,4 +1,6 @@
  //exercicio_04
+// Faça um programa que lê um número n e imprima os valores entre 2 e n, que são divisores de n.
+
 #include <stdio.h>
 #include <stdlib.h>
 

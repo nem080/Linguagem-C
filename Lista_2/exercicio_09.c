@@ -1,4 +1,6 @@
 /*exercicio_09*/
+// Escreva um programa que lê um número n, e então imprime o menor número primo que é maior ou igual n, e imprime o maior primo que é menor ou igual a n.
+
 //tenho duvida
 #include <stdio.h>
 #include <stdlib.h>
